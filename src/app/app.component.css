@@ -1,0 +1,18 @@
+.red-title {
+    color:red;
+}
+.large-title {
+    font-size: 4em;
+}
+.box {
+    padding:10px;
+    background: gray;
+}
+p {
+    width:200px;
+    background:lightgray;
+    margin: 100px auto;
+    text-align:center;
+    padding:20px;
+    
+  }
